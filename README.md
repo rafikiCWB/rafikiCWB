@@ -1,4 +1,4 @@
-### Hi 👋 i'm Rafael Grando
+### Hi 👋 i'm Rafael Grando;
 
 
 <!--
@@ -7,10 +7,10 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Java and Kotlin ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with new work
+<!-- - 🔭 I’m currently working on ... -->
+- 🌱 I’m currently learning Java and Kotlin;
+<!-- - 👯 I’m looking to collaborate on ...-->
+- 🤔 I’m looking for help with new work;
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
