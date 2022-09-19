@@ -4,13 +4,13 @@
 
 - 🔭 No momento estou apenas estudando
 - 🌱 Estudando Java e Kotlin
-- 🤔 Procuro ajuda para um novo emprego;
+- 🤔 Procuro oportunidade para um novo emprego;
 - 💬 Me pergunte sobre algo, se eu não souber vou procurar a resposta
 - ⚡ Fun fact: Artista circence/programador de computador
 
 <div align="left">
   <a href="https://github.com/rafikiCWB">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=rafaelgrando&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelgrando&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <!--<img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgrando&layout=compact&langs_count=7&theme=darcula"/>-->
     </div>
 <div style="display: inline_block"><br>
@@ -21,12 +21,7 @@
   
   <div> 
     -------------------------------------------------------------------------------------------------------------------------------------------------------
-    
-    
- <a 
-    href="https://www.linkedin.com/in/rafael-grando-691790137/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    
-
+ <a href="https://www.linkedin.com/in/rafael-grando-691790137/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
  
