@@ -1,7 +1,9 @@
 
-public class ### Hi 👋 i'm Rafael Grando {
+public class HelloWorld {
+
 public static void main(String[] args) {
 
+### Hi 👋 i'm Rafael Grando 
 <!--
 **rafikiCWB/rafikiCWB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
