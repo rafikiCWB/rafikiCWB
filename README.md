@@ -8,7 +8,7 @@
 - 💬 Me pergunte sobre algo, se eu não souber vou procurar a resposta
 - ⚡ Fun fact: Artista circence/programador de computador
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/rafikiCWB">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=rafaelgrando&show_icons=true&theme=darcula&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelgrando&layout=compact&langs_count=7&theme=darcula"/>
