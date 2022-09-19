@@ -1,5 +1,6 @@
-### Hi 👋 i'm Rafael Grando;
 
+public class ### Hi 👋 i'm Rafael Grando {
+public static void main(String[] args) {
 
 <!--
 **rafikiCWB/rafikiCWB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +17,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: Artista circence
 
+ }
+}
