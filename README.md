@@ -1,7 +1,6 @@
 
 public class HelloWorld {
-
-public static void main(String[] args) {
+    public static void main(String[] args) {
 
 ### Hi 👋 i'm Rafael Grando 
 <!--
