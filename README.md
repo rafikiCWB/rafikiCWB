@@ -6,5 +6,5 @@
 - 🌱 Estudando Java e Kotlin
 - 🤔 Procuro ajuda para um novo emprego;
 - 💬 Me pergunte sobre algo, se eu não souber vou procurar a resposta
-- ⚡ Fun fact: Artista circence
+- ⚡ Fun fact: Artista circence/programador de computador
 
