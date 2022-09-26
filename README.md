@@ -3,7 +3,7 @@
 ### Hi 👋 i'm Rafael Grando 
 
 - 🔭 Eterno estudante!
-- 🌱 Estudando Java e Kotlin
+- 🌱 Estudando Java/SpringBoot/Kotlin/DataBase
 - 🤔 Procuro oportunidade para um novo emprego;
 - 💬 Me pergunte sobre algo, se eu não souber vou procurar a resposta
 - ⚡ Fun fact: Artista circence/programador de computador
