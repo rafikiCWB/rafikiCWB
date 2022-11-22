@@ -2,7 +2,7 @@
 
 ### Hi 👋 i'm Rafael Grando 
 
-- 🔭 
+- 🔭 Java Developer
 - 🌱 Estudando Java/SpringBoot/Kotlin/DataBase
 - 🤔 
 - 💬 Me pergunte sobre algo, se eu não souber vou procurar a resposta
