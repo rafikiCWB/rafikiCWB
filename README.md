@@ -2,11 +2,11 @@
 
 ### Hi 👋 i'm Rafael Grando 
 
-- 🔭 Java Developer
-- 🌱 Estudando Java/SpringBoot/Kotlin/DataBase/english
-- 🤔 
-- 💬 Me pergunte sobre algo, se eu não souber vou procurar a resposta
-- ⚡ Fun fact: Artista circence/programador de computador
+- 🔭 Algo a ver com nostalgia.
+- 🌱 Java/Kotlin/SpringBoot/DataBase/english.
+- 🤔 Me envia mensagem pra gente conversar.
+- 💬 A arte lava da alma a poeira do dia a dia.
+- ⚡ Fun fact: Artista circense/programador de computador.
 
  <div align="center">
   <a href="https://github.com/rafikiCWB">
