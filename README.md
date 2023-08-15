@@ -3,7 +3,7 @@
 ### Hi 👋 i'm Rafael Grando 
 
 - 🔭 Algo a ver com nostalgia.
-- 🌱 Java/Kotlin/SpringBoot/DataBase/English/Vaadin.
+- 🌱 Java/Kotlin/SpringBoot/PostgreSQL/English/Vaadin.
 - 🤔 Me envia mensagem pra gente conversar.
 - 💬 A arte lava da alma a poeira do dia a dia.
 - ⚡ Fun fact: Artista circense/programador de computador.
