@@ -2,11 +2,11 @@
 
 ### Hi 👋 i'm Rafael Grando 
 
-- 🔭 Algo a ver com nostalgia.
-- 🌱 Java/Kotlin/SpringBoot/PostgreSQL/English/Vaadin.
-- 🤔 Me envia mensagem pra gente conversar.
-- 💬 A arte lava da alma a poeira do dia a dia.
-- ⚡ Fun fact: Artista circense/programador de computador.
+- 🔭 Apaixonado por aprender;
+- 🌱 Java/Kotlin/SpringBoot/PostgreSQL/English/Vaadin/Angular;
+- 🤔 Análise e Desenvolvimento de Sistemas(ADS);
+- 💬 A arte lava da alma a poeira do dia a dia;
+- ⚡ Fun fact: Artista circense/Desenvolvedor de Software;
 
  <div align="center">
   <a href="https://github.com/rafikiCWB">
@@ -17,15 +17,19 @@
 
   <img align="center" alt="Rafa-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg">
   
+  <img align="center" alt="Rafa-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
+
+  <img align="center" alt="Rafa-springboot" height="30" width="30" src="https://www.chatchatabc.com/_astro/spring@1024w.2e4d852f.webp">
+
+  <img align="center" alt="Rafa-Angular" height="30" width="30" src="https://images.ctfassets.net/zojzzdop0fzx/2niEOIroLnnZ5RaQn8CkO0/1d2eab2f59e99f2027c339677122e7a8/angular_gradient.svg?fm=webp&w=3840&q=75">
+   
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   
   <img align="center" alt="Rafa-kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-plain.svg">
   
- <img align="center" alt="Rafa-postgresql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg">
- 
- <img align="center" alt="Rafa-springboot" height="30" width="40" src="https://www.onlevelup.com/wp-content/uploads/2021/03/spring-boot-logo-png-4-transparent.png">
+
  
  ##
  
